@@ -13,6 +13,9 @@ Los ejercicios están diseñados para que desarrolles habilidades con las herram
 - 📈 Técnicas de análisis estadístico
 - 🌐 Visualizaciones interactivas con **Plotly** (para usuarios avanzados)
 
+- ✨Ejercicios extras para practicar mas con **Pandas** y **Numpy** 
+- ✨Ejercicios extras para practicar mas con **Matplotlib** y **Seaborn**
+
 ## ⚙️ Requisitos
 
 Los siguientes paquetes de Python son necesarios:
