@@ -111,15 +111,4 @@ Esta es una serie de ejercicios diseñados para practicar tus habilidades con **
 
 ---
 
-## Ejercicio 10: Proyecto Final 🚀
-**Objetivo**: Realiza un análisis completo.
-
-1. Elige un dataset de tu interés (puedes usar uno de Seaborn o uno descargado de Kaggle).
-2. Realiza un análisis exploratorio: estadísticas descriptivas, visualizaciones y correlaciones.
-3. Identifica relaciones interesantes entre las variables.
-4. Aplica técnicas avanzadas de visualización.
-5. Presenta un informe con gráficos y conclusiones.
-
----
-
 ¡Buena suerte! 💪
