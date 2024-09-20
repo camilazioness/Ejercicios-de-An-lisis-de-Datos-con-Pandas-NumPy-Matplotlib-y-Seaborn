@@ -113,15 +113,4 @@ Trabajar con series temporales y calcular estadísticas.
 
 ---
 
-## Ejercicio 10: Proyecto Final 🚀
-### Objetivo:
-Realizar un análisis completo usando estadísticas descriptivas y visualizaciones.
-
-1. Elige un dataset (puede ser de Seaborn, Kaggle u otra fuente).
-2. Realiza un análisis exploratorio: calcula estadísticas descriptivas como la media, mediana, moda, y visualiza las distribuciones de las variables más importantes.
-3. Crea gráficos usando Matplotlib y Seaborn que te ayuden a interpretar los datos.
-4. Presenta un reporte con gráficos y conclusiones.
-
----
-
 ¡Buena suerte con los ejercicios! 🚀🧠 Si completas todos estos desafíos, estarás más que preparado para aplicar `Matplotlib` y `Seaborn` en proyectos de análisis de datos.
