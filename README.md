@@ -29,7 +29,6 @@ Este repositorio te ofrece una experiencia de aprendizaje completa en **análisi
     - 🔢 Operaciones con arrays usando **NumPy**
     - 📊 Visualización de datos con **Matplotlib** y **Seaborn**
     - 📈 Técnicas de análisis estadístico
-    - 🌐 Visualizaciones interactivas con **Plotly** (para usuarios avanzados)
 
 ## ⚙️ Requisitos
 
@@ -39,9 +38,6 @@ Los siguientes paquetes de Python son necesarios:
 - `numpy`
 - `matplotlib`
 - `seaborn`
-- `plotly` (opcional, para ejercicios avanzados)
-
-
 
 ## 🚀 Cómo Utilizar el Repositorio
 
@@ -66,12 +62,6 @@ Para ejecutar los notebooks y realizar los ejercicios, necesitas instalar las si
 
 ```bash
 pip install pandas numpy matplotlib seaborn
-```
-
-Para ejercicios avanzados de visualización interactiva, puedes instalar Plotly (opcional):
-
-```bash
-pip install plotly
 ```
 
 ### 4. Resolver los Ejercicios
